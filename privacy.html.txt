@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Sapienz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Sapienz Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="privacy-policy">
+            <h1>Privacy Policy</h1>
+            <p>At Sapienz, we are committed to protecting your privacy. This policy outlines how we collect, use, and safeguard your information.</p>
+            <h2>Information Collection</h2>
+            <p>We collect information that you provide to us directly, such as when you contact us, subscribe to our newsletter, or use our services.</p>
+            <h2>Information Use</h2>
+            <p>We use your information to provide and improve our services, communicate with you, and comply with legal obligations.</p>
+            <h2>Information Sharing</h2>
+            <p>We do not share your information with third parties except as necessary to provide our services or comply with the law.</p>
+            <h2>Security</h2>
+            <p>We implement appropriate security measures to protect your information from unauthorized access and disclosure.</p>
+            <h2>Contact Us</h2>
+            <p>If you have any questions about this privacy policy, please contact us at privacy@sapienz.com.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sapienz. All rights reserved.</p>
+    </footer>
+</body>
+</html>

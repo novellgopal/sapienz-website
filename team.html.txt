@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Team - Sapienz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Sapienz Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="team">
+            <h1>Our Team</h1>
+            <h2>Leadership Team</h2>
+            <div class="team-member">
+                <img src="ceo.jpg" alt="CEO">
+                <h3>Jane Doe</h3>
+                <p>CEO</p>
+                <p>Jane brings over 20 years of industry experience and a proven track record in executive leadership.</p>
+            </div>
+            <div class="team-member">
+                <img src="cfo.jpg" alt="CFO">
+                <h3>John Smith</h3>
+                <p>CFO</p>
+                <p>John is a seasoned financial expert with extensive experience in financial planning and analysis.</p>
+            </div>
+            <div class="team-member">
+                <img src="cmo.jpg" alt="CMO">
+                <h3>Emily Johnson</h3>
+                <p>CMO</p>
+                <p>Emily specializes in strategic marketing and has helped numerous companies achieve significant growth.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sapienz. All rights reserved.</p>
+    </footer>
+</body>
+</html>

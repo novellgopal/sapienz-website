@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Sapienz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Sapienz Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="about-us">
+            <h1>About Sapienz</h1>
+            <p>Sapienz is dedicated to providing top-tier fractional management services to help businesses unlock their full potential.</p>
+            <h2>Our Story</h2>
+            <p>Founded by industry veterans, Sapienz brings decades of experience to the table. Our mission is to offer unparalleled expertise to companies in need of executive-level support without the long-term commitment.</p>
+            <h2>Why Choose Us</h2>
+            <ul>
+                <li>Experienced Professionals</li>
+                <li>Customized Solutions</li>
+                <li>Proven Success</li>
+            </ul>
+            <h2>Our Approach</h2>
+            <p>We take a client-centric approach, working closely with you to understand your unique challenges and opportunities, and delivering solutions that drive results.</p>
+            <h2>Company History</h2>
+            <p>Since our inception, we have helped numerous businesses achieve their goals through strategic fractional management services.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sapienz. All rights reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Sapienz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Sapienz Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="blog">
+            <h1>Blog</h1>
+            <article>
+                <h2>Latest Insights on Fractional Management</h2>
+                <p>Stay updated with the latest trends and insights in fractional management services.</p>
+                <a href="post1.html">Read more</a>
+            </article>
+            <article>
+                <h2>Case Study: How We Helped Company X</h2>
+                <p>Discover how our services made a significant impact on Company X's growth.</p>
+                <a href="post2.html">Read more</a>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sapienz. All rights reserved.</p>
+    </footer>
+</body>
+</html>
